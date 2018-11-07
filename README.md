@@ -2,8 +2,6 @@
 
 read and write excel files in golang.
 
-go语言读写excel文件.
-
 # dependency
 
 [github.com/go-ole/go-ole][ole]
